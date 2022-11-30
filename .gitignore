@@ -1,0 +1,6 @@
+.venv
+Rain
+*.csv
+concat.py
+Temp
+modules.txt
