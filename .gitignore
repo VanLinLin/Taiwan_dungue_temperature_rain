@@ -1,6 +1,9 @@
 .venv
 Rain
-*.csv
+雨量.csv
+氣溫.csv
 concat.py
 Temp
 modules.txt
+altair_test.ipynb
+Datasets
